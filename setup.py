@@ -8,7 +8,7 @@ setup(
     version='0.0',
     author='Dongjie Chen',
     author_email='midwinter1993@gmail.com',
-    packages=['xdict']
+    packages=['xdict'],
     scripts=['xdict/xdict'],
     url='http://github.com/midwinter1993/xdict',
     license='LICENSE',
